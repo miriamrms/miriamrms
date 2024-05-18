@@ -8,11 +8,11 @@
 
 <div align = "center">
 
-🔭 I’m currently studying at [CIn-UFPE](https://portal.cin.ufpe.br/)
+📚 I’m currently studying at [CIn-UFPE](https://portal.cin.ufpe.br/)
 
 🌱 I’m currently learning **Swift UI**
 
-👯 I’m also iOS Developer Student at [Apple Developer Academy](https://www.developeracademy.cin.ufpe.br/)
+👩‍💻 I’m also iOS Developer Student at [Apple Developer Academy](https://www.developeracademy.cin.ufpe.br/)
 
 🤝 I’m looking for job as **front-end developer freelancer**
 
